@@ -7,6 +7,10 @@ npm i
 ```
 npm run build
 ```
+### Синхронизация capacitor
+```
+npx cap sync
+```
 
 ### Открыть проект в android studio 
 ```
